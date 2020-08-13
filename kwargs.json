@@ -1,0 +1,14 @@
+{
+    "kppra": 8000,  
+    "encut": 520,  
+    "ncore": 4,    
+    "kpar": 4,   
+    "nodes": 1, 
+    "ntasks": 64,
+    "queuetype_rlx": "regular",
+    "queuetype_rlx2": "regular",
+    "queuetype_stc": "regular",
+    "walltime_rlx": "9:00:00",
+    "walltime_rlx2": "6:00:00",
+    "walltime_stc": "4:00:00"
+}

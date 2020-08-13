@@ -1,0 +1,2 @@
+Task:  ./TaIr_SiSn_/stc
+    Converged
