@@ -11,4 +11,4 @@
 		2.
 	2. Random good to know things:
 		* output_results.py will clean all folders of runs that are NOT the final runs of each type (rlx, rlx2, stc) when it detects that the POSCAR is completed.
-		*  
+		*  # VASP_NERSC_Automation
